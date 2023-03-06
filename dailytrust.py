@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # specify the URL to scrape
-url = 'https://dailytrust.com/87-days-to-go-buhari-races-to-complete-legacy-projects/'
+url = 'https://dailytrust.com/buhari-urges-chadian-factions-to-back-democratic-transition-2/'
 
 # send a GET request to the URL and retrieve the HTML content
 response = requests.get(url)
